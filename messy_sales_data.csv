@@ -1,0 +1,216 @@
+Order_ID,Order_Date,Product,Category,Region,Quantity,Price,Salesperson
+1089,15-03-2021,Headphones,gadgets ,North,8,, Zara 
+1773,,tablet ,gadgets ,north ,7,1000,Sara
+1654,15-03-2021,Phone,gadgets ,East,5,,Sara
+1438,2023-11-05,Headphones,Electronics,,8,1200,Sara
+1433,15-03-2021,PHONE,, west,1,1200,Sara
+1858,2021/02/20,PHONE,Gadgets, west,9,,Ali
+1085,2023-11-05,PHONE, electronics,East,8,1000,Omar
+1697,, laptop,Gadgets,North,5,1200, Zara 
+1201,2021/02/20,Headphones,,SOUTH,7,700,Ali
+1094,2023-11-05,Laptop,,,5,,Sara
+1526,2021/02/20, laptop,,North,2,1200,Ali
+1975,2023-11-05, laptop,Gadgets,,7,1200,Areeb
+1735,2023-11-05, laptop,gadgets , west,2,1000,Sara
+1761,15-03-2021,Laptop, electronics,north ,3,,John
+1717,2023-11-05,Laptop,gadgets , west,5,500,Areeb
+1786,2021/02/20,Tablet,gadgets ,,8,500,John
+1513,2021-01-15,Headphones, electronics,North,3,1000,Areeb
+1128,2021-01-15,Laptop, electronics,North,4,1200,Omar
+1839,15-03-2021,Phone,Electronics,East,0,, Zara 
+1450,,PHONE,Electronics,,1,1000,Omar
+1500,2021-01-15,Headphones,Gadgets,North,0,1200, Zara 
+1370,15-03-2021,Tablet,Gadgets,East,0,1000, Zara 
+1182,2023-11-05,tablet ,Electronics,North,8,,Areeb
+1926,2021/02/20,Tablet,Gadgets,East,8,1200,John
+1781,2023-11-05,Phone,gadgets ,East,8,1000,Sara
+1643,2021/02/20, laptop, electronics,North,0,,John
+1402,2023-11-05,Headphones, electronics, west,0,500,John
+1822,2022-07-10,tablet , electronics,,2,, Zara 
+1545,2022-07-10,Laptop,Gadgets,,5,500,Sara
+1443,2021/02/20,tablet , electronics,North,3,700,John
+1450,15-03-2021,Laptop,gadgets ,north ,4,,Omar
+1227,,tablet , electronics,north ,1,1200,Sara
+1092,2021-01-15,tablet ,Gadgets,SOUTH,7,,Sara
+1554,2023-11-05,Laptop, electronics,North,3,1200,Areeb
+1887,15-03-2021,PHONE,Electronics,,0,1200,Sara
+1063,2023-11-05,Laptop,gadgets , west,7,700,Ali
+1858,2022-07-10,PHONE, electronics, west,9,500,Omar
+1827,15-03-2021,Headphones, electronics,north ,0,500,Areeb
+1276,2021/02/20,Laptop,gadgets ,North,4,700,Sara
+1631,2022-07-10,Phone,,,8,500, Zara 
+1165,2021-01-15,Headphones,gadgets ,north ,7,1000,John
+1758,2022-07-10,Phone,,East,8,1200,Areeb
+1700,2021-01-15,Laptop,,,4,, Zara 
+1354,2022-07-10,PHONE,Gadgets,North,3,1000,Omar
+1067,2022-07-10,PHONE,gadgets ,North,7,,Ali
+1970,2021-01-15,Tablet, electronics,North,1,,Ali
+1445,2023-11-05,Phone,Gadgets,North,2,, Zara 
+1893,15-03-2021,Headphones,Gadgets,North,6,1000, Zara 
+1677,2023-11-05,PHONE,, west,6,700,John
+1778,2021-01-15,Phone,,East,1,,Ali
+1759,2021/02/20,Headphones,Gadgets,,5,700,Sara
+1194,15-03-2021,Headphones,gadgets , west,3,1000,Ali
+1363,2021/02/20,PHONE, electronics,,5,500,Ali
+1466,2021/02/20,Laptop,,north ,9,1200,Sara
+1497,2022-07-10,Tablet,Gadgets,north ,0,1200,Areeb
+1043,2021-01-15,PHONE,Gadgets,,9,500,Ali
+1546,2023-11-05, laptop,gadgets ,north ,4,700, Zara 
+1154,2021-01-15,Tablet,gadgets ,North,7,1000,Omar
+1743,2021/02/20,tablet ,Electronics, west,4,1000,Sara
+1683,2022-07-10,Laptop, electronics, west,3,,Areeb
+1922,2023-11-05,tablet ,Electronics,,7,700,John
+1744,2021/02/20,Laptop,gadgets ,,6,,Sara
+1366,2021/02/20,tablet ,Electronics,North,1,1000,Ali
+1967,,Phone, electronics, west,7,,Ali
+1410,,Laptop,Gadgets,,7,700, Zara 
+1325,2022-07-10,Headphones,gadgets , west,3,500,Ali
+1905,15-03-2021, laptop,Gadgets, west,9,500,Areeb
+1370,15-03-2021,Tablet,,,6,700,Omar
+1076,2022-07-10, laptop,,SOUTH,3,,John
+1469,2022-07-10,Headphones,Electronics,North,0,500,Ali
+1795,2021/02/20,tablet ,,SOUTH,6,700, Zara 
+1189,2021-01-15,tablet ,gadgets ,north ,2,500,John
+1462,2021-01-15,PHONE,gadgets ,North,7,,Omar
+1129,,PHONE,Electronics,North,5,1200,Sara
+1686,15-03-2021,Tablet,gadgets , west,4,1200, Zara 
+1475,15-03-2021,tablet ,gadgets ,East,1,1200,Sara
+1330,15-03-2021,tablet ,Gadgets,East,7,1200,Omar
+1226,2023-11-05,Laptop,Electronics, west,1,1200,Omar
+1564,2021-01-15,Tablet,Gadgets,East,4,500,Sara
+1669,2021-01-15,Laptop,,East,8,,Omar
+1940,2021/02/20,Phone,gadgets ,North,9,1200,Ali
+1437,15-03-2021,tablet ,Electronics,,9,1200,Ali
+1160,2023-11-05, laptop,,SOUTH,9,700,Sara
+1832,15-03-2021,tablet ,,North,5,,Ali
+1629,15-03-2021,PHONE,Electronics, west,2,700,Omar
+1700,, laptop,, west,8,500, Zara 
+1097,2021-01-15,Phone,Gadgets,North,8,,Ali
+1312,2022-07-10,PHONE,Gadgets,north ,9,700,Ali
+1767,2022-07-10,tablet ,Gadgets,North,6,500,Ali
+1832,15-03-2021,Tablet,gadgets ,north ,1,1200,Areeb
+1435,2023-11-05,Headphones,,North,5,700,Sara
+1804,2021/02/20,Headphones,gadgets , west,4,,Omar
+1841,,tablet ,,East,8,1000,Ali
+1387,2021/02/20,Tablet,,,3,500,Sara
+1898,2022-07-10,Phone,Electronics, west,3,,Omar
+1288,2022-07-10,Phone, electronics,East,0,1000,Omar
+1239,,Laptop,gadgets ,East,8,700,Areeb
+1682,15-03-2021,Phone,Gadgets,North,7,1200,John
+1636,2021/02/20,Headphones,Electronics,North,0,1000,Omar
+1139,2021-01-15,Phone,Electronics,East,4,500, Zara 
+1832,15-03-2021,Laptop,Gadgets,North,4,1200,Areeb
+1199,2023-11-05,Tablet,gadgets ,North,4,1000,Sara
+1804,2021-01-15,Headphones,Electronics,north ,9,1200,Sara
+1007,,Headphones,Electronics,,1,,Sara
+1796,2022-07-10, laptop,Electronics,SOUTH,3,1200,Areeb
+1786,2021-01-15,PHONE,Gadgets, west,1,1200,Sara
+1780,2021/02/20,PHONE,Electronics,SOUTH,2,700, Zara 
+1664,2022-07-10, laptop,Gadgets,north ,9,700,Omar
+1471,2021/02/20, laptop,Gadgets,SOUTH,9,1000, Zara 
+1705,2021-01-15, laptop,Gadgets,North,0,,John
+1277,2022-07-10,Headphones,gadgets , west,6,1000,Omar
+1780,2023-11-05,tablet ,Gadgets,north ,2,700,Sara
+1555,2021-01-15,tablet ,gadgets ,SOUTH,1,1200,John
+1458,2021/02/20,tablet ,gadgets ,,2,,Sara
+1505,2021/02/20,Headphones,,East,1,,Sara
+1568,2022-07-10,Laptop,gadgets ,SOUTH,4,700, Zara 
+1037,2023-11-05,Headphones,Gadgets,East,9,1200,Omar
+1139,2023-11-05,Laptop,Gadgets, west,5,1000,Ali
+1245,,PHONE, electronics,north ,7,1000,Omar
+1114,2023-11-05,Tablet,Gadgets,East,4,700,Omar
+1439,2021/02/20,Phone,Electronics,,0,500, Zara 
+1668,2021-01-15, laptop,,East,0,700,John
+1654,2022-07-10, laptop,,SOUTH,2,1000,Sara
+1471,,tablet ,Electronics,North,2,,Ali
+1855,,Phone,gadgets ,north ,8,,Areeb
+1565,2021/02/20,Phone,Electronics,,8,500,Ali
+1079,2021/02/20,Headphones,gadgets ,East,8,1200,Sara
+1764,2021-01-15, laptop,Electronics,north ,6,500,Ali
+1574,2021-01-15,Headphones,Gadgets,SOUTH,5,1200,Ali
+1634,2022-07-10,Headphones,gadgets ,East,6,700, Zara 
+1565,2022-07-10,Tablet,gadgets ,East,4,1000,Ali
+1553,15-03-2021, laptop,Gadgets, west,6,1200,Ali
+1090,2021/02/20, laptop,,north ,7,1000, Zara 
+1559,2023-11-05, laptop,gadgets ,East,7,,Sara
+1794,15-03-2021,Tablet, electronics,SOUTH,6,1000,John
+1303,2023-11-05, laptop,gadgets ,,0,,Ali
+1602,,PHONE,gadgets ,North,7,1200,Ali
+1030,2021/02/20,Laptop, electronics,North,3,700,Ali
+1347,2021/02/20,PHONE,gadgets ,SOUTH,7,1200,John
+1436,,Laptop,,East,5,1000,Areeb
+1982,2022-07-10,Tablet,, west,8,1000,Omar
+1214,2021/02/20,Laptop,gadgets ,SOUTH,3,500,Sara
+1276,2022-07-10, laptop,gadgets ,,9,500,Ali
+1408,2022-07-10, laptop, electronics,SOUTH,8,1000,Areeb
+1992,,tablet ,gadgets ,North,3,500,Sara
+1853,2021/02/20,Laptop, electronics,North,4,,Areeb
+1034,,PHONE,Gadgets,,5,,John
+1233,,Tablet, electronics,North,7,1200, Zara 
+1821,2021/02/20,PHONE, electronics,,6,1200,Omar
+1058,2021-01-15,Tablet,Electronics,north ,8,1000,Ali
+1855,2022-07-10,tablet ,,North,3,500,Sara
+1281,2021-01-15,Phone,Electronics,north ,5,700, Zara 
+1917,2021/02/20,tablet ,Electronics,East,4,1000,Areeb
+1293,15-03-2021,Phone,,SOUTH,9,,Areeb
+1434,,Headphones,Gadgets, west,3,700,Omar
+1661,,PHONE,Gadgets,East,5,1000,Ali
+1126,2021-01-15,tablet ,gadgets ,SOUTH,1,700, Zara 
+1557,,Headphones, electronics,East,8,500,John
+1505,2021-01-15,tablet ,Electronics,,3,500, Zara 
+1783,2023-11-05,tablet ,gadgets ,SOUTH,3,700, Zara 
+1996,,PHONE,Electronics,North,5,500,Sara
+1664,,Laptop,Gadgets,SOUTH,4,500,Sara
+1409,2021/02/20,PHONE,,,8,700,Sara
+1406,, laptop,,north ,5,700, Zara 
+1417,2021-01-15,Headphones, electronics,,5,1000,Areeb
+1814,2022-07-10, laptop,gadgets ,East,1,500,Omar
+1321,15-03-2021, laptop,gadgets ,East,0,700, Zara 
+1166,2021/02/20, laptop,Gadgets,north ,3,1000,Areeb
+1334,2021-01-15,Tablet,Electronics,,9,, Zara 
+1022,2023-11-05,PHONE, electronics,North,9,1200, Zara 
+1106,15-03-2021,Headphones,gadgets ,north ,6,,Ali
+1090,2022-07-10,Phone,,SOUTH,6,700,Omar
+1771,15-03-2021, laptop,Electronics,SOUTH,3,1000,John
+1722,15-03-2021,Laptop,gadgets ,SOUTH,1,1000,John
+1696,,Laptop,,North,0,,Ali
+1461,2021-01-15,Phone,,north ,3,,Sara
+1717,2023-11-05,Headphones,Gadgets,North,3,,Areeb
+1161,2023-11-05,PHONE,Electronics,East,1,1200,John
+1900,15-03-2021,Headphones, electronics,SOUTH,2,1000,Ali
+1501,2021/02/20,Laptop,,East,0,1000,Areeb
+1938,2021-01-15,Laptop,,East,6,,Sara
+1152,,tablet ,gadgets , west,9,700,Sara
+1497,,Laptop,Electronics,East,6,700,Areeb
+1696,2021/02/20,Laptop,Electronics,East,4,,Omar
+1495,2021-01-15,Phone,Gadgets,East,4,700,Areeb
+1446,2021-01-15,Headphones,Gadgets,East,3,700,Sara
+1166,2021-01-15,Tablet,Electronics,East,1,1000,John
+1381,2023-11-05,Laptop,gadgets ,north ,5,700,Ali
+1238,,tablet ,Gadgets,north ,5,, Zara 
+1301,2021-01-15,tablet ,Electronics, west,0,,Ali
+1683,2023-11-05,tablet ,Electronics,SOUTH,4,700,John
+1630,2021/02/20,Headphones,Gadgets,East,2,1000,Omar
+1607,15-03-2021, laptop,gadgets ,north ,1,,Omar
+1361,2022-07-10,Headphones,,SOUTH,7,1200,Ali
+1959,2023-11-05,Phone,Gadgets,East,5,700,John
+1087,,tablet , electronics,East,6,1000,Ali
+1342,2021-01-15,Tablet,,East,7,1200,Areeb
+1118,2021/02/20,tablet ,Gadgets,SOUTH,9,1200,John
+1338,2021/02/20,Tablet, electronics,,8,500, Zara 
+1961,2021/02/20,Tablet,Gadgets,East,6,700,John
+1743,2021/02/20,tablet ,Electronics, west,4,1000,Sara
+1165,2021-01-15,Headphones,gadgets ,north ,7,1000,John
+1887,15-03-2021,PHONE,Electronics,,0,1200,Sara
+1804,2021-01-15,Headphones,Electronics,north ,9,1200,Sara
+1495,2021-01-15,Phone,Gadgets,East,4,700,Areeb
+1338,2021/02/20,Tablet, electronics,,8,500, Zara 
+1288,2022-07-10,Phone, electronics,East,0,1000,Omar
+1433,15-03-2021,PHONE,, west,1,1200,Sara
+1443,2021/02/20,tablet , electronics,North,3,700,John
+1334,2021-01-15,Tablet,Electronics,,9,, Zara 
+1090,2022-07-10,Phone,,SOUTH,6,700,Omar
+1839,15-03-2021,Phone,Electronics,East,0,, Zara 
+1975,2023-11-05, laptop,Gadgets,,7,1200,Areeb
+1832,15-03-2021,Tablet,gadgets ,north ,1,1200,Areeb
+1277,2022-07-10,Headphones,gadgets , west,6,1000,Omar
