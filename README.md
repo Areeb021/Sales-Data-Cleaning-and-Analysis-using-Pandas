@@ -1,39 +1,20 @@
-# Sales-Data-Cleaning-and-Analysis-using-Pandas
-📊 Sales Data Cleaning and Analysis using Pandas
+📊 Sales Data Analysis & Revenue Insights
 📌 Project Overview
 
-This project focuses on cleaning, processing, and analyzing real-world sales data using Python and Pandas.
-The dataset was intentionally messy to simulate real business scenarios, including missing values, duplicates, inconsistent text, and mixed date formats.
+This project focuses on cleaning, analyzing, and visualizing a messy real-world sales dataset using Python, Pandas, and Matplotlib.
+The goal is to uncover revenue trends, evaluate product and salesperson performance, and answer key business questions through exploratory data analysis (EDA).
 
-The goal of this project is to demonstrate:
-
-Strong data cleaning skills
-
-Feature engineering
-
-Business-oriented data analysis
-
-Use of Pandas for real-world datasets
-
-🧠 Skills & Tools Used
+🛠️ Tools & Technologies
 
 Python
 
-Pandas
+Pandas – data cleaning, transformation, and analysis
 
-Datetime handling
-
-Data Cleaning
-
-Exploratory Data Analysis (EDA)
+Matplotlib – data visualization
 
 📂 Dataset Description
 
-The dataset contains sales-related information such as:
-
-Order_ID
-
-Order_Date
+The dataset (messy_sales_data.csv) contains sales transaction data with the following key fields:
 
 Product
 
@@ -41,102 +22,107 @@ Category
 
 Region
 
+Salesperson
+
 Quantity
 
 Price
 
-Salesperson
+Order_Date
 
-Data Issues Handled:
+🧹 Data Cleaning & Preparation
 
-Missing values
+Removed extra spaces and standardized text columns
 
-Duplicate records
+Handled missing values for category and region
 
-Inconsistent text casing and spacing
+Removed invalid records (missing price, zero or negative quantity)
 
-Mixed date formats
+Converted order dates to datetime format
 
-Invalid quantities
+Created new features:
 
-Null prices
-
-🧹 Data Cleaning Steps
-
-Removed duplicate rows
-
-Standardized text columns (Product, Category, Region, Salesperson)
-
-Filled missing values for categorical columns
-
-Removed rows with missing prices
-
-Removed invalid orders (Quantity ≤ 0)
-
-Converted Order_Date to datetime safely
-
-Verified cleaned dataset integrity
-
-⚙️ Feature Engineering
-
-New columns created to enhance analysis:
-
-Revenue = Quantity × Price
+Revenue (Quantity × Price)
 
 Order_Year
 
 Order_Month
 
-Is_valid_Order
+Is_Valid_Order
 
-📈 Sales Analysis Performed
+📈 Exploratory Data Analysis (EDA)
+🔹 Revenue Analysis
 
-The following business questions were answered:
+Total revenue calculation
 
-Total revenue generated
+Revenue by:
 
-Revenue by product
+Product
 
-Revenue by category
+Category
 
-Revenue by region
+Region
 
-Monthly revenue trends
+Month
 
-Top-selling products
+🔹 Product Insights
+
+Identified top 3 products by revenue
+
+Analyzed product sales frequency
+
+🔹 Salesperson Performance
+
+Best-performing salesperson by total revenue
+
+Least-performing salesperson
+
+Sales distribution by salesperson using a pie chart
+
+🔹 Order Analysis
 
 Average order value
 
-Best and least performing salespersons
+Monthly revenue trends
 
-🧠 Key Insights
+📊 Visualizations
 
-Certain products contribute significantly more to total revenue
+Bar charts for revenue and sales comparisons
 
-Sales performance varies across regions
+Line plot showing monthly revenue trends
 
-A small number of salespersons generate most of the revenue
+Scatter plot for order value analysis
 
-Monthly trends help identify high-performing periods
+Pie chart representing salesperson revenue contribution
+
+🧠 Business Questions Answered
+
+Which products generate the most revenue?
+
+Which category and region perform best?
+
+Who is the top-performing salesperson?
+
+How does revenue trend over time?
+
+What is the average order value?
+
+🚀 Key Insights
+
+Revenue is concentrated among a few top-performing products
+
+Certain regions and categories consistently outperform others
+
+Sales performance varies significantly between salespersons
+
+Monthly trends highlight seasonal revenue patterns
 
 📁 Project Structure
-sales-data-cleaning-analysis/
-│
 ├── messy_sales_data.csv
 ├── sales_analysis.py
-├── README.md
+└── README.md
 
-🚀 Future Improvements
+✅ Conclusion
 
-Add data visualization using Matplotlib
-
-Perform deeper time-series analysis
-
-Export cleaned data for reporting
-
-Combine with SQL for advanced querying
-
-🏁 Conclusion
-
-This project demonstrates the ability to work with messy real-world datasets, apply Pandas best practices, and extract meaningful business insights.
-It is suitable for showcasing data analysis skills on GitHub and resumes.
+This project demonstrates end-to-end data analysis skills, including data cleaning, feature engineering, visualization, and business insight generation.
+It reflects practical, real-world data handling suitable for entry-level data analyst roles.
